@@ -15,6 +15,7 @@ public class RequestCodes {
     public static final int SITE_SETTINGS = 1000;
     public static final int DO_LOGIN = 1100;
     public static final int PHOTO_PICKER = 1200;
+    public static final int LOG_INTO_WPCOM_FOR_STATS = 1300;
 
     // Media
     public static final int PICTURE_LIBRARY = 2000;
